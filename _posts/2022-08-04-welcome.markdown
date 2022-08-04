@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome"
+date:   2022-08-04 13:02:28 +0300
+categories: jekyll update
+---
+Welcome! This site is still a work in progress so here's a `very` useful snippet of code: 
+
+{% highlight java %}
+System.out.println("Hello World!");
+{% endhighlight %}
+
+You can check out my [GitHub page][github-page] to check out my projects. If you want to contact me, send an e-mail at `ntoliasg@gmail.com`.
+
+[github-page]: https://github.com/FriedImage/friedimage.github.io
