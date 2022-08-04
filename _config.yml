@@ -21,7 +21,7 @@
 title: George Ntolias
 email: ntoliasg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! This site is in another castle, currently a work in progress. Come back later! 👋😊
+  Hello! This site is in another castle, currently a work in progress. Come back later!
 baseurl: "friedimage.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dolias1
